@@ -5,7 +5,10 @@ body {
   font-weight: 300;
   font-size: 1rem;
   background: rgb(255, 255, 255); }
-
+  
+h1 {font-size: 80%;
+   color: rgb(201, 15, 46)
+   }
 ::-moz-selection {
   background: #000;
   color: #fff; }
